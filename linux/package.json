@@ -1,0 +1,17 @@
+{
+  "name": "linux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-regex": "^6.0.1",
+    "cli-color": "^2.0.1",
+    "tor-control": "^0.0.3"
+  }
+}
