@@ -1,31 +1,31 @@
-Proxy patch for - Onion Browser Button - and - Browse with Onion - addons in Windows and Mac.
+Прокси патч для - Onion Browser Button - и - Обзор с Луком - аддонов linux
 
-This patch is made for starting TOR proxy on your PC or MAC. TOR connection is required to use the following addons.
+Этот патч предназначен для запуска прокси TOR на вашем ПК или MAC. Подключение TOR требуется для использования следующих аддонов.
 
-Onion Browser Button: https://mybrowseraddon.com/tor-button.html
-1. Chrome: https://chrome.google.com/webstore/detail/tor-browser-button/goimpaiignmlnmdnpnkbbjoophmbebhp
-2. Opera: https://addons.opera.com/en/extensions/details/tortm-browser-button/
-3. Firefox: https://addons.mozilla.org/en-US/firefox/addon/tortm-browser-button/
+1) Пожалуйста, посетите папку (https://github.com/jeremy-jr-benthum/onion-browser-button/releases).
 
-Browse with Onion: https://mybrowseraddon.com/browse-in-tor.html
-1. Chrome: https://chrome.google.com/webstore/detail/browse-in-tor/hfddekpiekhlkkgeaobcdkeonpkinipo
-2. Opera: https://addons.opera.com/en/extensions/details/browse-in-tortm/
+2) Если у вас есть машина с Windows, пожалуйста, загрузите и распакуйте файл «win.zip» на свой компьютер, а если у вас есть Mac, загрузите и распакуйте "mac.zip".
 
-To run (Onion Browser Button) or (Browse with Onion) add-ons you need TOR connection on your PC or MAC. 
-Here, you can find requisite files to run TOR proxy on your machine. Please follow the below steps.
+3) Для машины Windows, пожалуйста, откройте загруженную папку "win" и запустите файл "run.bat" в папке. Для Mac, пожалуйста, откройте папку "win" и запустите файл "run.sh".
 
-1) Please visit folder (https://github.com/jeremy-jr-benthum/onion-browser-button/releases).
-2) If you have Windows machine, please download and unzip "win.zip" file to your computer, and if you have Mac download and unzip "mac.zip".
-3) For windows machine please open downloaded "win" folder and run "run.bat" file within the folder. For Mac please open "win" folder and run "run.sh" file.
-4) You will see the screen with 6 options (as below):
+4) Вы увидите экран с 6 опциями (как показано ниже):
 
-------------  Configure TOR  ------------
-1. Start TOR connection
-2. Log connection info
-3. Stop TOR connection
-4. Debug TOR connection
-5. New TOR identity
-6. Restart TOR connection
------------------------------------------
+  
 
-To start TOR connection on your computer, please press 1 on your keyboard, once "Tor is connected successfully!" message is displayed, you can use Tor Browser Button add-on to connect your browser to the TOR network. To stop TOR connection please press 2. To get a new TOR identity, please press 5 and to restart TOR connection, please press 6 on your keyboard.
+------------ Настроить TOR ------------
+
+1. Подключение  TOR 
+
+2. Сведения о подключении
+
+3. Остановка  TOR
+
+4. Отладка TOR
+
+5. Новое ТOR удостоверение 
+
+6. Перезапуск TOR 
+
+---------------------------------------
+
+Чтобы начать подключение TOR на вашем компьютере, пожалуйста, нажмите 1 на клавиатуре, как только появится сообщение «Tor подключен успешно!», вы можете использовать надстройку Tor Browser Button для подключения вашего браузера к сети TOR. Чтобы остановить подключение TOR, нажмите 2. Чтобы получить новый идентификатор TOR, нажмите 5, а для перезапуска соединения TOR нажмите 6 на клавиатуре.
