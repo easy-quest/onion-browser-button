@@ -1,6 +1,6 @@
 #!/usr/bin/env fish
 
-if test ! (command -v yarn)
+if test (command -v yarn)
     yarn install
 end
 
